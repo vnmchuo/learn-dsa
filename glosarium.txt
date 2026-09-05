@@ -1,0 +1,2 @@
+TP = Two Pointers
+SW = Sliding Window
